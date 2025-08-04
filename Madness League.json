@@ -1,6 +1,6 @@
 {
-	"Name": "Madness League V7",
-	"Version": 1754328661,
+	"Name": "Madness League V8",
+	"Version": 1754343459,
 	"MaxPerkRepetition": 1,
 	"GlobalNotes": "",
 	"Tiers": [
@@ -1184,6 +1184,7 @@
 				"26",
 				"31",
 				"32",
+				"38",
 				"42",
 				"261",
 				"63",
